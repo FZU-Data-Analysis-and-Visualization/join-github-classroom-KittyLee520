@@ -1,0 +1,16 @@
+{
+	"folders": [],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"**/c:\\Users\\李果谕0519\\Downloads\\上机报告4.aux": true,
+			"**/c:\\Users\\李果谕0519\\Downloads\\上机报告4.log": true,
+			"**/c:\\Users\\李果谕0519\\Downloads\\上机报告4.gz": true,
+			"**/c:\\Users\\李果谕0519\\Downloads\\上机报告4.out": true
+		}
+	}
+}
